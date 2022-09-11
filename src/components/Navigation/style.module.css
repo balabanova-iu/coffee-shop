@@ -1,0 +1,15 @@
+.navigation_list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  list-style-type: none;
+  margin-left: 149px;
+  margin-top: 0;
+  padding-top: 30px;
+  padding-left: 0;
+  margin-bottom: 0;
+  color: white;
+}
+.navigation_item {
+  padding-right: 40px;
+}

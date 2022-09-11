@@ -1,0 +1,7 @@
+.content {
+  width: 1440px;
+}
+.content_img {
+  background: url("../../images/main.jpg");
+  width: 100%;
+}

@@ -1,0 +1,37 @@
+.content_title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 58px;
+  color: #ffffff;
+  margin-top: 111px;
+}
+
+.text {
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 35px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.button {
+  padding: 5px 42px;
+  border: 1px solid #ffffff;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 3px;
+  background-color: rgba(28, 28, 28, 0);
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+  margin-bottom: 200px;
+}

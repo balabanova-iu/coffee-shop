@@ -1,0 +1,35 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: url("../../images/our-best.jpg");
+}
+
+.title {
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+  text-align: center;
+  color: #000000;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+.content_list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 70px;
+}
+
+.content_item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 220px;
+  height: 240px;
+  background-color: white;
+  justify-content: space-around;
+  margin-bottom: 110px;
+}
