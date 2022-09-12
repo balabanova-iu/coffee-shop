@@ -1,8 +1,8 @@
 import React from "react";
 
-import imageOne from "../../images/coffee-one.jpg";
-import imageTwo from "../../images/coffee-two.jpg";
-import imageThree from "../../images/coffee-three.jpg";
+import imageOne from "../../../../images/coffee-one.jpg";
+import imageTwo from "../../../../images/coffee-two.jpg";
+import imageThree from "../../../../images/coffee-three.jpg";
 
 import styles from "./style.module.css";
 

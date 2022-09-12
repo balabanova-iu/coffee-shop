@@ -1,8 +1,8 @@
 import React from "react";
 
 import styles from "./style.module.css";
-import { ReactComponent as GroupIconBlack } from "../../icons/group-black.svg";
-import { ReactComponent as GrainBlack } from "../../icons/grain-black.svg";
+import { ReactComponent as GroupIconBlack } from "../../../../icons/group-black.svg";
+import { ReactComponent as GrainBlack } from "../../../../icons/grain-black.svg";
 
 const Footer = () => {
   return (

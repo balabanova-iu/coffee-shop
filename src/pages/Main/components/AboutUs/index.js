@@ -1,6 +1,6 @@
 import React from "react";
 
-import { ReactComponent as GroupIconBlack } from "../../icons/group-black.svg";
+import { ReactComponent as GroupIconBlack } from "../../../../icons/group-black.svg";
 import styles from "./style.module.css";
 
 const AboutUs = () => {

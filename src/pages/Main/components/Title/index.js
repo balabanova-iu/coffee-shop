@@ -1,6 +1,6 @@
 import React from "react";
 
-import { ReactComponent as GroupIconWhite } from "../../icons/group-white.svg";
+import { ReactComponent as GroupIconWhite } from "../../../../icons/group-white.svg";
 import styles from "./style.module.css";
 
 const Title = () => {
