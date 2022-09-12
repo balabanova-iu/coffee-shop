@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./style.module.css";
-import { ReactComponent as GrainWhite } from "../../../../icons/grain-white.svg";
+import { ReactComponent as GrainWhite } from "../../icons/grain-white.svg";
 
 const Navigation = () => {
   return (

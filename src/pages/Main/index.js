@@ -1,6 +1,6 @@
 import React from "react";
 
-import Navigation from "./components/Navigation";
+import Navigation from "../../components/Navigation";
 import Title from "./components/Title";
 import AboutUs from "./components/AboutUs";
 import OurBest from "./components/OurBest";
