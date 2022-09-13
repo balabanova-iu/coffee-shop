@@ -7,8 +7,16 @@ const Navigation = () => {
   return (
     <ul className={styles.navigation_list}>
       <GrainWhite />
-      <li className={styles.navigation_item}>Coffee house</li>
-      <li className={styles.navigation_item}>Our coffee</li>
+      <li>
+        <a href="/" className={styles.navigation_item}>
+          Coffee house
+        </a>
+      </li>
+      <li>
+        <a href="/our-coffee" className={styles.navigation_item}>
+          Our coffee
+        </a>
+      </li>
       <li className={styles.navigation_item}>For your pleasure</li>
     </ul>
   );

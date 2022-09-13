@@ -4,7 +4,7 @@ import Navigation from "../../components/Navigation";
 import Title from "./components/Title";
 import AboutUs from "./components/AboutUs";
 import OurBest from "./components/OurBest";
-import Footer from "./components/Footer";
+import Footer from "../../components/Footer";
 
 import styles from "./style.module.css";
 

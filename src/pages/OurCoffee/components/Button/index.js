@@ -2,13 +2,12 @@ import React from "react";
 
 import styles from "./style.module.css";
 
-const Seach = () => {
+const Button = ({ country }) => {
   return (
     <div className={styles.content}>
-      <div>Lookiing for</div>
-      <input></input>
+      <button className={styles.button}>{country}</button>
     </div>
   );
 };
 
-export default Seach;
+export default Button;
